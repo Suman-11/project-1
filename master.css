@@ -1,0 +1,32 @@
+h1{
+  font-family: 'Montserrat Black',sans-serif;
+}
+/* login */
+.login{
+
+}
+/* card */
+.card{
+  width: 389px;
+  height: 350px;
+  text-align: center;
+  margin: 11% 37%;
+  position: absolute;
+  z-index: 1;
+}
+/* input */
+.button-login{
+  margin: 25px 0px 0px;
+}
+/* background-image */
+.body-background{
+  background-image: url('https://static.dw.com/image/63743885_605.jpg');
+}
+/* forgotpassword-register */
+.forgot{
+  margin-top: 1rem;
+  padding: 10px 30px 10px 10px;
+}
+.register{
+  padding: 10px 10px 10px 30px;
+}
